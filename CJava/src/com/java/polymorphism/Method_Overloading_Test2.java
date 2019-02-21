@@ -13,7 +13,7 @@ class A{
 	}
 	
 }
-public class Demo2 {
+public class Method_Overloading_Test2 {
 	public static void main(String[] args)
 	{
 		Example e=new Example();

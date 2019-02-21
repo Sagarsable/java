@@ -33,7 +33,7 @@ class B12 extends A11{
 		
 	}
 }
-public class demo1 {
+public class Method_Overloading_Test1{
 	public static void main(String args[])
 	{
 		B12 b=new B12();
