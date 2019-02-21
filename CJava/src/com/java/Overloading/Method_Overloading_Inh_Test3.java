@@ -1,4 +1,4 @@
-package com.java.polymorphism;
+package com.java.Overloading;
 class A_Inh_Test3
 {
 	void m1(float f)

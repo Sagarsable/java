@@ -1,4 +1,4 @@
-package com.java.polymorphism;
+package com.java.Overloading;
 
 class MOL5_1
 {

@@ -1,4 +1,4 @@
-package com.java.polymorphism;
+package com.java.Overloading;
 class A_Inh_Test2
 {
 	void m1(int a)

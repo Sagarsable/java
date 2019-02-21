@@ -1,4 +1,4 @@
-package com.java.polymorphism;
+package com.java.Overloading;
 
 public class Method_Overloading_Test3 {
 	static void m1(int a)

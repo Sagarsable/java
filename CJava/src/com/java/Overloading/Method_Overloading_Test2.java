@@ -1,4 +1,4 @@
-package com.java.polymorphism;
+package com.java.Overloading;
 //imp case with referanced type overloaded method
 class Example{}
 class Sample extends Example{}
